@@ -1,0 +1,40 @@
+<style>
+#main{
+  background-color: lightgrey;
+  text-align:center;
+}
+#title{
+  text-align:center;
+  background-color: lightgrey;
+  /*line-height:30px;*/
+}
+#image-div{
+  border:40px;
+  background-color: lightgrey;
+}
+#image{
+  position:relative;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+  max-width:90%;
+}
+#img-caption{
+  position:relative;
+  text-align:center;
+  font-size:18px;
+}
+#tribute-info{
+  text-align:center;
+  background-color: lightgrey;
+  padding: 10px 200px;
+  line-height:20px;
+}
+.tribute{
+  text-align:left;
+}
+#target-link{
+  font-family:serif;
+}
+</style>
